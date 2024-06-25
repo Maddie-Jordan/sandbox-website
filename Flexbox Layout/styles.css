@@ -33,6 +33,7 @@ p {
 .header {
   background-color: cadetblue;
   padding: 40px;
+  display: flex;
 }
 
 .main-menu {
@@ -40,6 +41,7 @@ p {
   gap: 20px;
   padding: 20px 40px;
   background-color: #f4f4f4;
+  justify-content: center;
 }
 
 .main-menu a {
